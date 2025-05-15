@@ -21,7 +21,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        
+        ManageControl();
     }
 
     private void ManageControl()
